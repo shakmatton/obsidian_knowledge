@@ -11,10 +11,17 @@
             "id": "5d56673c656b2d92",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "AulaB/Aula B - Diagrama.canvas",
+                "viewState": {
+                  "x": 1763.1730430255488,
+                  "y": -968.2361941701935,
+                  "zoom": -2.096503503115668
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Aula B - Diagrama"
             }
           }
         ]
@@ -90,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AulaB/Aula B - Diagrama.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Aula B - Diagrama"
             }
           },
           {
@@ -108,11 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AulaB/Aula B - Diagrama.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Aula B - Diagrama"
             }
           },
           {
@@ -150,12 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "AulaB/Aula B - Diagrama.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Aula B - Diagrama"
             }
           }
         ]
@@ -177,5 +187,8 @@
     }
   },
   "active": "5d56673c656b2d92",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "AulaB/AulaB.md",
+    "AulaB/csharp-puro-vs-unity.md"
+  ]
 }

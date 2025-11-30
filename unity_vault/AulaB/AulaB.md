@@ -407,7 +407,7 @@ Scripts/
 1. **Pratique diariamente** - Mesmo que por 15 minutos
 2. **Experimente modificar códigos** - Quebre coisas e conserte
 3. **Use Debug.Log constantemente** - Entenda o fluxo do programa
-4. **Crie projetos pequenos** -Omplete-os antes de iniciar novos
+4. **Crie projetos pequenos** - Complete-os antes de iniciar novos
 5. **Participe de comunidades** - Unity Forum, Reddit r/Unity3D
 
 ---
