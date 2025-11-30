@@ -1,4 +1,8 @@
-# 🎮 Material Didático - Aula B: Programação em Unity com C#
+# 🎮 Material Didático - Aula B: Programação em [[Aula B - Diagrama.canvas|Unity]] com C#
+
+^f44119
+
+***Obs.: Para os novatos em C#, recomendamos ver primeiro o material sobre [[csharp-puro-vs-unity|C# Puro]].***
 
 ## 📋 Contexto e Objetivos
 

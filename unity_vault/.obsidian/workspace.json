@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "49d313f6713cbaff",
+    "id": "d720bcd838d8533e",
     "type": "split",
     "children": [
       {
-        "id": "083b18d691046612",
+        "id": "770aa13bbe276bd2",
         "type": "tabs",
         "children": [
           {
-            "id": "05cb11c363faf1ba",
+            "id": "5d56673c656b2d92",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f58203a4feef81c2",
+    "id": "76a5a895544a5d47",
     "type": "split",
     "children": [
       {
-        "id": "ec6d21f9f2b8a750",
+        "id": "516845e0c8ff9f6c",
         "type": "tabs",
         "children": [
           {
-            "id": "3b88762273f2b9b2",
+            "id": "75825d7f6d6b88a8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "3f843e98ade70d88",
+            "id": "c9deaa5656d7f464",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "b8297d2e400d7c30",
+            "id": "0d7c60ad0c309367",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,51 +74,49 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 300
   },
   "right": {
-    "id": "6813d2932d9262bf",
+    "id": "e88bf7e7f1f695d7",
     "type": "split",
     "children": [
       {
-        "id": "974cffd2aa1fab4b",
+        "id": "ff295da06da985b5",
         "type": "tabs",
         "children": [
           {
-            "id": "fb4d0564fd114bb0",
+            "id": "1834b00b836fed00",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unity_vault/AulaB/Aula B - Diagrama.canvas",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aula B - Diagrama"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "df69a77bab839b0b",
+            "id": "5948a04c66458a0c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unity_vault/AulaB/Aula B - Diagrama.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Aula B - Diagrama"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "2d13de18fc64cc04",
+            "id": "d0e8be0818d42c56",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +131,7 @@
             }
           },
           {
-            "id": "e619225030bd003c",
+            "id": "a442c7be92cd5ece",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,26 +145,25 @@
             }
           },
           {
-            "id": "09c526064e745001",
+            "id": "29850b9528c2f302",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "unity_vault/AulaB/Aula B - Diagrama.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Aula B - Diagrama"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,19 +176,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "3b88762273f2b9b2",
-  "lastOpenFiles": [
-    "unity_vault/AulaB/AulaB.md",
-    "unity_vault/AulaB/csharp-puro-vs-unity.md",
-    "unity_vault/AulaB/Aula B - Diagrama.canvas",
-    "tech_vault/obsidian_and_git.md",
-    "AulaB - Diagrama.canvas",
-    "Unity.md",
-    "unity_vault/AulaB/Unity_e_C#.md",
-    "unity_vault/AulaB/Aula B - Diagrama.png",
-    "readme.md",
-    "tech_vault/AulaB.md",
-    "tech_vault/Aula B - Diagrama.png",
-    "tech_vault/Aula B - Diagrama.canvas"
-  ]
+  "active": "5d56673c656b2d92",
+  "lastOpenFiles": []
 }
