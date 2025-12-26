@@ -65,8 +65,18 @@
 - No **cmd**, use:
   ```cmd
   type nul > nome_do_arquivo.md
+```
+```
 
+- No Git Bash, use:
+```bash
+# Cria um arquivo vazio
+touch .gitignore
 
+# Ou já escreve o conteúdo inicial
+echo "# Unity .gitignore" > .gitignore
+
+```
 ---
 
 ## 9. GitHub e repositório global
@@ -77,3 +87,4 @@
   git remote add origin https://github.com/SEU_USUARIO/obsidian_knowledge.git
   git branch -M main
   git push -u origin main
+  ```
